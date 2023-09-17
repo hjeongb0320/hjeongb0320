@@ -1,7 +1,12 @@
-# Hong Jeong Beom
+# Hong Jeong Beom 🌱
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjeongb0320&show_icons=true&theme=radical)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=137_910)
+
+# stack
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
 
 <!--
 
