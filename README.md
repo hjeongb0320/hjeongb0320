@@ -1,5 +1,13 @@
 # Hong Jeong Beom 🌱
 
+**👨‍💻 Currently Working on:**
+
+- **Hanyang University**  
+  _Computer Software Engineering_  
+  _(2019 ~ Present)_
+
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjeongb0320&show_icons=true&bg_color=00000000)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=137_910)
 
