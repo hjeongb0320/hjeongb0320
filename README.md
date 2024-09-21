@@ -1,10 +1,15 @@
 # Hong Jeong Beom 🌱
 
-**👨‍💻 Currently Working on:**
+**👨‍💻 Working on:**
 
 - **Hanyang University**  
   _Computer Software Engineering_  
-  _(2019 ~ Present)_
+  _(2019.03 ~ 2025.02)_
+
+- **Dost11**  
+  _Backend Developer & Platform Engineer_  
+  _(2024.03 ~ present)_
+
 
 <br>
 
