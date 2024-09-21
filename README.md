@@ -6,9 +6,10 @@
   _Computer Software Engineering_  
   _(2019.03 ~ 2025.02)_
 
-- **Dost11**  
+- **Dost11**
   _Backend Developer & Platform Engineer_  
-  _(2024.03 ~ present)_
+  _(2024.03 ~ present)_ <br>
+  _https://github.com/hjeongb_
 
 
 <br>
