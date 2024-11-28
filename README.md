@@ -8,7 +8,7 @@
 
 - **Dost11**
   _Backend Developer & Platform Engineer_  
-  _(2024.03 ~ present)_ <br>
+  _(2024.03 ~ 2024.11)_ <br>
   _https://github.com/hjeongb_
 
 
