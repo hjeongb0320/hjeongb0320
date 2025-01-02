@@ -17,8 +17,13 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=137_910)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/hjeongb0320"/>
+<img
+  src="https://render.gitanimals.org/farms/hjeongb0320"
+  width="600"
+  height="300"
+/>
 </a>
+
 
 # stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
