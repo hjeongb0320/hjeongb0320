@@ -11,11 +11,14 @@
   _(2024.03 ~ 2024.11)_ <br>
   _https://github.com/hjeongb_
 
-
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjeongb0320&show_icons=true&bg_color=00000000)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=137_910)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/hjeongb0320"/>
+</a>
 
 # stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -37,8 +40,6 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-# [WID](https://hjboom.notion.site/WID-9a76fdec733c4a47a9b7fca445e1d494?pvs=4)
 
 <!--
 
