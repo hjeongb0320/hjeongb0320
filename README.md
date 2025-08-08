@@ -9,7 +9,10 @@
 - **Dost11**
   _Backend Developer & Platform Engineer_  
   _(2024.03 ~ 2024.11)_ <br>
-  _https://github.com/hjeongb_
+
+- **HanwhaSystem/ICT**
+  _iOS Application Developer_  
+  _(2025.07 ~)_ <br>
 
 <br>
 
@@ -34,6 +37,7 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438.svg?&style=for-the-badge&logo=Redis&logoColor=white)
