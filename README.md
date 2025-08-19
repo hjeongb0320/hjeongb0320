@@ -10,7 +10,7 @@
   _Backend Developer & Platform Engineer_  
   _(2024.03 ~ 2024.11)_ <br>
 
-- **HanwhaSystem/ICT**
+- **Hanwha System / ICT**
   _iOS Application Developer_  
   _(2025.07 ~)_ <br>
 
